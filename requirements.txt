@@ -1,0 +1,9 @@
+scdrs==1.0.2
+scanpy==1.12.5
+anndata==0.13.4
+scipy
+pandas
+numpy
+matplotlib
+python-docx
+statsmodels

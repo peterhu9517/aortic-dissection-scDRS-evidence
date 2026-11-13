@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Large data files (download from accessions in README; do not commit)
+*.h5ad
+*.csv
+*.csv.gz
+*.tar
+*.tar.gz
+*.mtx
+*.loom
+
+# Logs / intermediates
+*.log
+robustness_out/
+scdrs_pipeline/layer2_multidataset_out/
+
+# OS
+.DS_Store
+Thumbs.db
