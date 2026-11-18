@@ -3,7 +3,7 @@
 Analysis code supporting the manuscript *"Genetic susceptibility to aortic dissection and related aortopathies localizes to vascular wall cells, whereas macrophage inflammation marks established aortic disease: a tri-level single-cell dissection"* (submitted to *Genome Medicine*).
 
 **Repository:** https://github.com/peterhu9517/aortic-dissection-scDRS-evidence
-**Archival deposit:** ScienceDB record 019x8 (DOI activation pending). A versioned snapshot of the complete analysis code is supplied with the manuscript as Additional file 4.
+**Archived DOI:**&#8203; 10.57760/sciencedb.019x8 (ScienceDB)
 **Licence:** MIT (code); CC-BY-4.0 for any shared processed data.
 
 ## Overview
